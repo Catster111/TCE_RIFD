@@ -1,0 +1,1 @@
+This directory stores the model weights for evaluation and testing.
